@@ -225,8 +225,10 @@ st.dataframe(
     use_container_width=True,
 )
 #--------------------------------------------------------------------------------------------
-
 %%writefile streamlit_app.py
+# (your streamlit app code here)
+import streamlit as st
+st.title("Hello")
 import pandas as pd
 import plotly.express as px
 import requests
