@@ -225,8 +225,7 @@ st.dataframe(
     use_container_width=True,
 )
 #--------------------------------------------------------------------------------------------
-!pip install streamlit pyngrok -q
-#--------------------------------------------------------------------------------------------
+
 %%writefile streamlit_app.py
 import pandas as pd
 import plotly.express as px
