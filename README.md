@@ -1,7 +1,7 @@
 # API-Integrated Interactive Titanic & Port Weather Dashboard
 
 ## 1. Live Public Dashboard URL
-* Deployed Dashboard URL:`https://your-app-name.streamlit.app` (Replace with your actual deployed Streamlit Cloud link)
+* Deployed Dashboard URL:`titanic-analytics-part3-dashboardgit-kcczsy4bsdqf9dgg9jkcha.streamlit.app` 
 
 ---
 
